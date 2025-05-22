@@ -9,7 +9,6 @@ openssh
 btop
 rsync
 avahi
-yay
 reflector
 trash-cli
 tree
@@ -22,12 +21,10 @@ chromium
 discord
 thunderbird
 signal-desktop
-zoom
 wireshark-qt
 bluez
 cups
 cups-pdf
-texlive-most
 libreoffice-fresh
 ttf-liberation
 ttf-jetbrains-mono
@@ -36,12 +33,10 @@ pamixer
 helvum
 ffmpeg
 vlc
-mixx
 obs-studio
 ardour
 audacity
 gimp
-inkskape
 steam
 flatpak
 yay
